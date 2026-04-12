@@ -18,7 +18,7 @@
 1. Clone 此專案到本地。
 2. 確保已安裝 Maven 與 JDK 17。
 3. 執行 `mvn spring-boot:run`。
-4. 訪問 `http://localhost:8080/register` 開始測試。
+4. 訪問 `(http://127.0.0.1:8080/login)` 開始測試。
 
 ---
 *本專案為學習 Spring Boot 標準架構實作之成果。*
